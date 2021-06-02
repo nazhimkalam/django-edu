@@ -1,1 +1,1 @@
-"# django-edu" 
+# These are the code resources used for learning Django
